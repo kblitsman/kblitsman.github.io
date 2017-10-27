@@ -1,0 +1,17 @@
+name: "my-website"
+
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:kb2908@cumc.columbia.edu
+    - icon: fa-github fa-lg
+      href: http://github.com/kblitsman/
+      
+output: 
+  html_document
+  
