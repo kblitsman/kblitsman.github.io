@@ -10,6 +10,8 @@ navbar:
       href: mailto:kb2908@cumc.columbia.edu
     - icon: fa-github fa-lg
       href: http://github.com/kblitsman/
+    - icon: fa-linkedin-square 
+      href: https://www.linkedin.com/in/katie-blitsman-b12554a6/
 
 output: 
   html_document
